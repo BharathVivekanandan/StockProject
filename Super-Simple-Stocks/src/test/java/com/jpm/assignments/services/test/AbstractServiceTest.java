@@ -16,7 +16,7 @@ import com.jpm.assignments.model.Stock;
 import com.jpm.assignments.model.StockType;
 import com.jpm.assignments.model.Trade;
 import com.jpm.assignments.persistence.StocksEntityHolder;
-import com.jpm.assignments.persistenceImpl.StocksEntityHolderImpl;
+import com.jpm.assignments.persistence.impl.StocksEntityHolderImpl;
 import com.jpm.assignments.services.StockService;
 import com.jpm.assignments.services.impl.StockServiceImpl;
 

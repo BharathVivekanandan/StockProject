@@ -7,7 +7,7 @@ import org.junit.Test;
 import com.jpm.assignments.model.Trade;
 
 /**
- * This class has the unit test method to record the trades,
+ * This class has the unit test method to record the trades.
  * 
  * @author Bharath Vivekanandan
  *

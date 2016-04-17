@@ -1,4 +1,4 @@
-package com.jpm.assignments.persistenceImpl;
+package com.jpm.assignments.persistence.impl;
 
 import java.util.ArrayList;
 import java.util.HashMap;
