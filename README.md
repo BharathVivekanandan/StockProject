@@ -19,7 +19,7 @@
 2.	No database or GUI is required, all data need only be held in memory
 3.	Formulas and data provided are simplified representations for the purpose of this exercise
 
-# 2. Solution
+# 2. Design
 
 A service layer is provided with the required operations. So that this serivce layer can be integrated with other services.
 
